@@ -1,0 +1,7 @@
+venv/
+.vscode/
+# users/__pycache__/
+#  users/migrations/
+# main/__pycache__/
+# .gitignore
+db.sqlite3
